@@ -5,7 +5,7 @@ This repository contains an automation testing framework using the Page Object M
 ## 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/farhadcse7
+git clone https://github.com/farhadcse7/SwagLabs_POM.git
 ```
 
 ## ⚙️ Environment Setup
@@ -89,6 +89,14 @@ allure serve
 ```
 
 This will launch a browser window displaying the Allure report.
+
+### 📸 Sample Allure Report Screenshots
+
+![Allure Overview Report](https://github.com/farhadcse7/SwagLabs_POM/blob/main/Screenshot_1.jpg?raw=true)  
+*Allure dashboard summary showing all 8 test cases passed successfully.*
+
+![Allure Suites Details](https://github.com/farhadcse7/SwagLabs_POM/blob/main/Screenshot_2.jpg?raw=true)  
+*Suite breakdown with test case durations and individual status.*
 
 ---
 
